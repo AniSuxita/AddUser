@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538653483129",
+    "project_id": "adduser-e7dc4",
+    "storage_bucket": "adduser-e7dc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538653483129:android:fe32f769eecd159b4af4a8",
+        "android_client_info": {
+          "package_name": "com.example.adduser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538653483129-nmg7erb40aimj2o12hneca0eheqa0kj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE1yl_6b1_DVySu5OfR-njy_d_pjOqxEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538653483129-nmg7erb40aimj2o12hneca0eheqa0kj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
